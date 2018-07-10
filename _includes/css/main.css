@@ -221,14 +221,19 @@ nav ul li:hover, nav ul li.active {
   position: static;
   margin-top: -8px;
 }
+
+.sectiondivider .fa-stack-1x {
+  font-size: 100px;
+  margin-top: -10px;
+}
 .sectiondivider .fa-circle { color: #fff; }
 
 .sectiondivider h5 {
-  font-size:15px;
+  font-size:25px;
   font-weight:700;
   text-transform:uppercase;
   position:absolute;
-  bottom:50px;
+  bottom:60px;
   left:auto;
   text-align:center;
   display:block;
